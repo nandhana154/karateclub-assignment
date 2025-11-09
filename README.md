@@ -1,4 +1,5 @@
 # Karate Club Community Detection  
+Nandhana S ----- IMS24154
 Recursive Spectral Modularity – Graph Theory Project (DSC212)
 
 This project applies **community detection** on the well-known *Zachary’s Karate Club* network.
